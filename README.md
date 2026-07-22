@@ -154,7 +154,9 @@ Some important DAX measures created in this project include:
 
 ##  Dashboard Preview
 
-bi.png
+<p align="center">
+  <img src="bi.png" width="900">
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
