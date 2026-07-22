@@ -154,13 +154,7 @@ Some important DAX measures created in this project include:
 
 ##  Dashboard Preview
 
-> *(Add a screenshot of your Power BI dashboard here.)*
-
-Example:
-
-```
-Dashboard.png
-```
+bi.png
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
